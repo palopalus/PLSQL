@@ -37,4 +37,5 @@ RETURN bitor(p1, p2) - bitand(p1, p2);
 
 
 select to_number('FF','xx') from dual;
+--ok
 select to_char(254,'fmxxxx') from dual;
