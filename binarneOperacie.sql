@@ -1,5 +1,5 @@
  
---integer to bin
+--integer to bin 
 declare
  lcBinary varchar2(100);
  p_int number:=22;
