@@ -22,4 +22,5 @@ grant select on  V_$SQL to b2020001;
 
 select * from V$SQL_PLAN_STATISTICS_ALL;
 select * from v$sql;
+--touch30.7.2025
 
